@@ -341,7 +341,7 @@ ol {
     Header Section
 --------------------------*/
 .header-section {
-  padding-top: 30px;
+  padding-top: 33px;
   padding-bottom: 20px;
   position: relative;
 }
@@ -515,7 +515,7 @@ ol {
 
 .social-links {
   margin-top: 10px;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 .social-links a {

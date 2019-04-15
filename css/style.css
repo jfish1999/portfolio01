@@ -503,6 +503,10 @@ ol {
   padding: 50px 0;
   margin-top: 5px;
 }
+.github-link {
+  font-size: 14px;
+  color: #979797;
+}
 
 .footer-section .copyright {
   font-size: 12px;

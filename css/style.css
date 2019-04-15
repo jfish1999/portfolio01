@@ -363,6 +363,7 @@ ol {
   display: inline-block;
   border-style: dotted;
   border-width: 0.5px;
+  border-top: 3px;
   font-size: 22px;
   color: #27A6FC;
   margin-left: 20px;

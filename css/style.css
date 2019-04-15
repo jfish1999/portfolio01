@@ -646,7 +646,7 @@ ol {
   border: none;
   border-bottom: 2px solid #000;
   margin-bottom: 30px;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 .contact-form ::-webkit-input-placeholder {

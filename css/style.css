@@ -362,7 +362,7 @@ ol {
 .main-menu ul li a {
   display: inline-block;
   border-style: dotted;
-  border-width: 5px;
+  border-width: 0.5px;
   font-size: 22px;
   color: #27A6FC;
   margin-left: 20px;

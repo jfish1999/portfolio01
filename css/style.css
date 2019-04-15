@@ -503,6 +503,10 @@ ol {
   padding: 50px 0;
   margin-top: 5px;
 }
+.footer-social-media {
+  font-size: 15px;
+  color: #fcb86b;
+}
 
 .footer-section .copyright {
   font-size: 12px;

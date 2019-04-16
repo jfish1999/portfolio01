@@ -363,8 +363,8 @@ ol {
   display: inline-block;
   font-size: 22px;
   color: #27A6FC;
-  margin-left: -30px;
-  margin-right: 70px;
+  margin-left: -9px;
+  margin-right: 40px;
   padding: 20px 0 5px;
 }
 
@@ -401,6 +401,7 @@ ol {
   display: inline-block;
   margin-right: 30px;
   padding-bottom: 10px;
+  padding-left: 30px;
   color: #979797;
   cursor: pointer;
 }

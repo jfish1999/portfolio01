@@ -140,7 +140,7 @@ ol {
 /*=== Buttons ===*/
 .site-btn {
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   min-width: 140px;
   text-align: center;
   padding: 15px 10px;
@@ -151,7 +151,19 @@ ol {
   margin-right: 15px;
   z-index: 1;
 }
-
+.site-btn02 {
+  display: inline-block;
+  font-size: 16px;
+  min-width: 140px;
+  text-align: center;
+  padding: 15px 10px;
+  position: relative;
+  color: #fff;
+  border: none;
+  background-color: rgb(39, 180, 245);
+  margin-right: 15px;
+  z-index: 1;
+}
 .site-btn.btn-fade {
   background-color: #979797;
 }
@@ -501,8 +513,9 @@ ol {
     Footer Section
 --------------------------*/
 .footer-section {
-  padding: 50px 0;
-  margin-top: 5px;
+  padding: 110px 0;
+  margin-top: -40px;
+  margin-bottom: -200px;
 }
 .github-link {
   font-size: 14px;
@@ -515,8 +528,8 @@ ol {
 }
 
 .social-links {
-  margin-top: 10px;
-  margin-bottom: 30px;
+  margin-top: 60px;
+  margin-bottom: 40px;
 }
 
 .social-links a {

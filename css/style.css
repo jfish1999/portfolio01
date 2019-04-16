@@ -341,7 +341,7 @@ ol {
     Header Section
 --------------------------*/
 .header-section {
-  padding-top: 33px;
+  padding-top: 30px;
   padding-bottom: 20px;
   position: relative;
 }
@@ -363,8 +363,8 @@ ol {
   display: inline-block;
   font-size: 22px;
   color: #27A6FC;
-  margin-left: 20px;
-  margin-right: 100px;
+  margin-left: -30px;
+  margin-right: 70px;
   padding: 20px 0 5px;
 }
 
@@ -676,7 +676,7 @@ ol {
 }
 
 /* Medium screen : 992px. */
-@media only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 991px) and (max-width: 1199px) {
   .portfolio-item {
     height: 450px;
   }

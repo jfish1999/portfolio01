@@ -12,5 +12,5 @@ https://www.linkedin.com/in/jayden-fisher/
 ## Mobile Screenshot
 ![mobile-screenshot](https://raw.githubusercontent.com/jfish1999/portfolio/master/img/mobile.png)
 
-##Template Referance 
+## Template Referance 
 https://colorlib.com/wp/template/riddle/
